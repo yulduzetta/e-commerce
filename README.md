@@ -38,7 +38,7 @@ $ npm run watch
   <summary>Expand to get full license details</summary>
   <p>MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2021] [Yulduz Ibrahim (yulduzetta)]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
