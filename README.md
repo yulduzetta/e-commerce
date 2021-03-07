@@ -21,12 +21,12 @@ $ npm install
 ```
   
 ## Usage 
-1. _To run in prod mode:_ 
+1. To run in prod mode:
 ```typescript
 $ npm start
 ```
 
-2. _To run in developement mode:_
+2. To run in developement mode:
 ```typescript
 $ npm run watch
 ```
